@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Ghanbarinia</h1>
 <h3 align="center">Senior Android Developer 😎</h3>
 
-I started programming since 2010 with C++ and c# and php while I was studying at university after that I switched to mobile programming field and I've been working as an android developer 2014.from 2014 to 2018, I was doing Android programming with Java, and from 2018 I started programming with Kotlin.**
+I started programming since 2010 with C++ , C# , PHP and SQL while I was studying at university after that I switched to mobile programming field and I've been working as an Android developer 2014.from 2014 to 2018, I was doing Android programming with Java, and from 2018 I started programming with Kotlin.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
